@@ -1,0 +1,8 @@
+{
+    "app_id": "application-1-owwnn",
+    "config_version": 20210101,
+    "name": "Application-1",
+    "location": "US-VA",
+    "provider_region": "gcp-us-east4",
+    "deployment_model": "LOCAL"
+}
